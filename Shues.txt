@@ -1,0 +1,3 @@
+У,Кроссовки,www.yandex.ru
+У,Ботинки,www.yandex.ru
+У.Туфли,www.yandex.ru

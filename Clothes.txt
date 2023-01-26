@@ -1,0 +1,5 @@
+ЖВН,Платье_в_пол,www.yandex.ru
+ЖВ,Блузка,www.yandex.ru
+УВ,Футболка,www.yandex.ru
+УН,Брюки,www.yandex.ru
+УН,Джинсы,www.yandex.ru
